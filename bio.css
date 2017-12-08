@@ -1,0 +1,64 @@
+body {
+	font-family: Bungee;
+	width: 100%;
+}
+
+header {
+  height: 200px;
+  background-color: black;
+  color: white;
+}
+
+.top_logo {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.profPic {
+	float: left; 
+	height: 120px;
+	width: 120px;
+	padding-left: 15px;
+	padding-top: 15px;
+}
+
+.bio-1 {
+	float: left;
+	height: 400px;
+	width: 40%;
+	margin-left: 8%;
+	background-color: black;
+	margin-top: 2%;
+	
+}
+
+.bio-2 {
+	float: left;
+	height: 400px;
+	width: 40%;
+	background-color: black;
+	margin-left: 2%;
+	margin-top: 2%;
+}
+
+.bio-3 {
+	float: left;
+	height: 400px;
+	width: 40%;
+	background-color: black;
+	margin-left: 8%; 
+	margin-top: 2%;
+}
+
+.bio-4 {
+	float: left;
+	height: 400px;
+	width: 40%;
+	background-color: black;
+	margin-left: 2%;
+	margin-top: 2%;
+}
