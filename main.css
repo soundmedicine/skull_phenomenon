@@ -6,6 +6,8 @@
 body {
   display: flex;
   flex-direction: column;
+  font-family: 'Bungee', cursive;
+
 }
 
 header {
@@ -20,6 +22,7 @@ header {
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
+  color: firebrick;
 
 }
 
